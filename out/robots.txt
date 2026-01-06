@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+Sitemap: https://pdfcraft.devtoolcafe.com/sitemap.xml
